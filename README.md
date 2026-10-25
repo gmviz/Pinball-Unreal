@@ -20,3 +20,7 @@ Alumno: Guillermo Mata Vizcaíno
 ## LISTA DE MEJORAS Y GAME FEEL IMPLEMENTADAS
 ### Efectos de Game Feel (Bouncers y Lanzador)
 Incorporación de efectos de sonido y luces dinámicas al impactar contra los bouncers y al utilizar el lanzador para mejorar la respuesta sensorial.
+
+<br>
+
+![Captura de pantalla](./Screenshots/1.png)
