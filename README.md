@@ -18,8 +18,8 @@ Alumno: Guillermo Mata Vizcaíno
 * **CCD (Continuous Collision Detection):** Activado para evitar que atraviese geometría fina.
 
 ## LISTA DE MEJORAS Y GAME FEEL IMPLEMENTADAS
-### Efectos de Game Feel (Bouncers y Lanzador)
-Incorporación de efectos de sonido y luces dinámicas al impactar contra los bouncers y al utilizar el lanzador para mejorar la respuesta sensorial.
+* Incorporación de efectos de sonido y luces dinámicas al accionar el lanzador
+* Modelado y disposición de mobiliario ambiental y elementos decorativos para recrear una sala arcade
 
 <br>
 
